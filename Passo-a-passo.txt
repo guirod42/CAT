@@ -1,0 +1,43 @@
+Criação do repositório - https://github.com/guirod42/CAT.git
+Clone do repositório para máquina
+Arquivo README.md
+Arquivo Passo-a-passo.txt
+
+Verbos Web API ASP.NET Core
+GET - Obter
+POST - Criar
+PUT - Atualizar
+DELETE - Excluir
+
+-- Criar o repositório no GitHub
+-- Instalar VS 2022 - Em inglês =)
+-- Abrir o VS e clonar o repositório para:
+C:\_repositorios\CAT
+
+Colar o README.md e o Passo-a-passo.txt
+
+Iniciar novo projeto ASP.NET Core Web API
+Precisa ter a funcionalidade do RESTful
+Pesquisar por 'ASP.NET Core Web API'
+
+Project Name: 'CAT.WebApi'
+Solution Name: 'CAT'
+Não selecionar a opção de colocar no mesmo diretório
+Location: C:\_guirod42\ProjetoCAT\
+
+> Next
+
+.NET 8.0
+Configure for HTTPS - OK
+Enable OpenAPI support - OK
+Use controllers - OK
+
+> Create
+
+Menu > Tools > NuGet Package Manager > Package Manager Console
+
+install-package Microsoft.EntityFrameworkCore.SqlServer
+
+cls
+
+install-package Microsoft.EntityFrameworkCore.Tools

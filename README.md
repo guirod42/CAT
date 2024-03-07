@@ -1,0 +1,2 @@
+Projeto para oferecer ao aluno e ao professor orientador uma plataforma de gestão para o Trabalho de Conclusão de Curso.
+O projeto será desenvolvido como um projeto de TCC, afim de levantar os requisitos, criar a aplicação, documentar os passos realizados e apresentar o estudo.
